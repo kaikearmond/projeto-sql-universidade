@@ -12,7 +12,7 @@ O projeto inclui:
 
 ---
 
-## 🛠Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **SQL** (SQL, compatível com PostgreSQL / MySQL com pequenas adaptações)
 
 ---
