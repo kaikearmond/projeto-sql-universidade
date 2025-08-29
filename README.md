@@ -1,6 +1,6 @@
 # Projeto Universitário em SQL
 
-## 📌 Descrição
+## Descrição
 Este projeto foi desenvolvido durante a graduação e tem como objetivo **criar, estruturar e consultar um banco de dados relacional em SQL**, simulando dados de procedimentos e atendimentos hospitalares.
 
 O projeto inclui:
@@ -12,17 +12,17 @@ O projeto inclui:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-- **SQL** (ANSI SQL, compatível com PostgreSQL / MySQL com pequenas adaptações)
+## 🛠Tecnologias Utilizadas
+- **SQL** (SQL, compatível com PostgreSQL / MySQL com pequenas adaptações)
 
 ---
 
-## 📂 Estrutura do Repositório
+##  Estrutura do Repositório
 - `projeto-sql-universidade.sql` → Script completo com criação das tabelas, view e consultas.
 
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 1. Clone este repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/projeto-sql-universidade.git
@@ -40,7 +40,7 @@ O projeto inclui:
 
 ---
 
-## 📊 Exemplos de Consultas
+## Exemplos de Consultas
 - Somatório de procedimentos clínicos:
   ```sql
   select sum("QTD_Procedimentos_clinicos") from dados_aih_qtd;
@@ -53,5 +53,5 @@ O projeto inclui:
 
 ---
 
-## 👨‍🎓 Autor
+##  Autor
 Projeto desenvolvido como parte de disciplina universitária, com foco em **modelagem de dados, normalização e consultas SQL**.
